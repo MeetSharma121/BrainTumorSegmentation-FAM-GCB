@@ -57,12 +57,19 @@ Achieved **99.35% accuracy** on BraTS2022. Below is a comparison with other mode
 
 BrainTumorSegmentation-FAM-GCB/ 
 ├── assets/ # Diagrams, visuals, architecture images 
+
 ├── data/ # Processed datasets and loaders 
+
 ├── models/ # Model architecture (FAM, GCB, U-Net) 
+
 ├── notebooks/ # Jupyter notebooks for EDA and training 
+
 ├── scripts/ # Training and evaluation scripts 
+
 ├── utils/ # Helper functions and modules 
+
 ├── results/ # Evaluation metrics, logs, predictions 
+
 ├── README.md # Project documentation └── LICENSE # MIT License
 
 
